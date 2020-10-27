@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**pk-anderson/pk-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Patrick Anderson de Souza
 
 Bacharel em Direito
