@@ -1,6 +1,6 @@
 Patrick Anderson de Souza
 
-Full-stack Developer
+Full Stack Developer
 
 Graduação em Análise e Desenvolvimento de Sistemas no IFPB - Campus Cajazeiras
 
